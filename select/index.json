@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "2ページ",
+  "base_artist": "がーどまん",
+  "createdAt": "2026-02-07T19:44:03.505066Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "2ページ",
+      "artist": "がーどまん",
+      "has_synced": false,
+      "path": "select/pl_01_2ページ_がーどまん.txt"
+    }
+  ]
+}
